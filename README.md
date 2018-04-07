@@ -33,6 +33,7 @@ Sales Person can also
 - Install [Node.js](https://nodejs.org/en/download/)
 - Install [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - Install [Android SDK](https://developer.android.com/studio/install.html)
+- Install [Gradle](https://gradle.org/install/)
 - Install [Cordova](https://cordova.apache.org/docs/en/latest/guide/cli/)
 ```sh
 	C:\> npm install -g cordova
