@@ -30,7 +30,7 @@ Sales Person can also
 
 ## Screenshots
 
-![](screenshots/home.png)
+![](screenshots/home.png =100x20)
 ![](screenshots/visit.png)
 ![](screenshots/feedback.png)
 ![](screenshots/dashboard.png)
