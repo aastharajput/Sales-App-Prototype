@@ -36,6 +36,21 @@ Sales Person can also
 - Install [Gradle](https://gradle.org/install/)
 - Install [Cordova](https://cordova.apache.org/docs/en/latest/guide/cli/)
 ```sh
-	C:\> npm install -g cordova
+	$ npm install -g cordova
 ```
-- Install [pre-requisites for building](https://cordova.apache.org/docs/en/latest/guide/cli/#install-pre-requisites-for-building)
+
+## Compiling
+
+```sh
+	$ cd cordova-module
+	$ cordova prepare android
+	$ cordova compile android
+```
+
+## Building
+
+```sh
+	$ cordova build android
+	$ cordova run android
+```
+
