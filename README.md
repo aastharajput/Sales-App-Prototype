@@ -27,3 +27,14 @@ Sales App helps
 Sales Person can also
 - Access current offering by the product
 - Individual performance in a graphical dashboard
+
+## Setting up the development environment
+
+- Install [Node.js](https://nodejs.org/en/download/)
+- Install [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- Install [Android SDK](https://developer.android.com/studio/install.html)
+- Install [Cordova](https://cordova.apache.org/docs/en/latest/guide/cli/)
+```sh
+	C:\> npm install -g cordova
+```
+- Install [pre-requisites for building](https://cordova.apache.org/docs/en/latest/guide/cli/#install-pre-requisites-for-building)
