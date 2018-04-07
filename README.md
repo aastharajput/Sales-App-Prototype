@@ -28,6 +28,13 @@ Sales Person can also
 - Access current offering by the product
 - Individual performance in a graphical dashboard
 
+## Screenshots
+
+![](screenshots/home.png)
+![](screenshots/visit.png)
+![](screenshots/feedback.png)
+![](screenshots/dashboard.png)
+
 ## Setting up the development environment
 
 - Install [Node.js](https://nodejs.org/en/download/)
